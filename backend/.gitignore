@@ -15,10 +15,6 @@ __pycache__/
 # IDE
 .vscode/
 
-# Models
-models/*.pt
-models/*.pth
-
 # Generated files
 data/processed/*
 data/output/*
