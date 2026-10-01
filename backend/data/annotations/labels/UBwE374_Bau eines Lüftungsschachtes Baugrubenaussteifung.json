@@ -1,0 +1,34 @@
+{
+    "image": "UBwE374_Bau eines Lüftungsschachtes Baugrubenaussteifung.png",
+    "width": 5000,
+    "height": 3727,
+    "annotations": [
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                4464,
+                3432,
+                4669,
+                3466
+            ]
+        },
+        {
+            "label": "LINE_FIELD",
+            "bbox": [
+                4470,
+                3495,
+                4579,
+                3527
+            ]
+        },
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                4222,
+                2244,
+                4319,
+                2283
+            ]
+        }
+    ]
+}

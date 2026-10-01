@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>BVG Plan Archive</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<script>tailwind.config={theme:{extend:{colors:{bvg:'#f5c400',ink:'#202124'}}}}</script>
+<style>
+*{box-sizing:border-box}body{margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:#f5f6f7;color:#202124}
+.scrollbar::-webkit-scrollbar{width:8px;height:8px}.scrollbar::-webkit-scrollbar-thumb{background:#c9ccd1;border-radius:8px}
+.doc-paper{background:linear-gradient(135deg,#d8d5c9,#eee9d9 45%,#cfcabb);box-shadow:0 8px 30px #0002}.scan-text{font-family:Georgia,serif;color:#27251f}
+.field-input{outline:none}.field-input:focus{box-shadow:0 0 0 3px #f5c40055;border-color:#d4aa00}
+
+/* The light design above is unchanged. These overrides apply only in dark mode. */
+.ui-control{background:transparent;color:inherit;cursor:pointer}
+.lang-select{appearance:none;-webkit-appearance:none;padding-left:12px !important;padding-right:30px !important;background-repeat:no-repeat !important;background-position:right 12px center !important;background-size:10px 6px !important;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 8'%3E%3Cpath d='M1 1.5 6 6.5 11 1.5' fill='none' stroke='%23202124' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") !important}
+.dark .lang-select{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 8'%3E%3Cpath d='M1 1.5 6 6.5 11 1.5' fill='none' stroke='%23e8edf3' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") !important}
+body.dark{background:#11151b;color:#e8edf3;color-scheme:dark}
+.dark .bg-white{background-color:#1a212a}
+.dark .bg-gray-50,.dark .bg-gray-100{background-color:#242d38}
+.dark .bg-gray-200{background-color:#36414e}
+.dark [class~="bg-[#eef0f2]"]{background-color:#10151b}
+.dark [class~="bg-[#fff7c9]"]{background-color:#4a401a;color:#ffdf5c}
+.dark .text-gray-800,.dark .text-gray-700{color:#e0e7ef}
+.dark .text-gray-600,.dark .text-gray-500{color:#b4bfcc}
+.dark .text-gray-400{color:#98a5b5}
+.dark .border,.dark .border-b,.dark .border-t,.dark .border-r,.dark .border-l,
+.dark .border-gray-100,.dark .border-gray-200,.dark .border-gray-300{border-color:#374351}
+.dark .divide-y>:not([hidden])~:not([hidden]){border-color:#374351}
+.dark .hover\:bg-gray-50:hover,.dark .hover\:bg-gray-100:hover{background-color:#303b49}
+.dark input,.dark select{background-color:#242d38;color:#e8edf3}
+.dark .text-amber-700,.dark .text-amber-800{color:#f7d16d}
+.dark .bg-amber-50{background-color:#443a20}
+.dark [class~="bg-amber-50/30"]{background-color:#332f23}
+.dark .text-emerald-700{color:#83dbb9}
+.dark .bg-emerald-100{background-color:#194335}
+.dark .text-red-600,.dark .text-red-700{color:#ff9f9f}
+.dark .bg-red-100{background-color:#512a2a}
+.dark .bg-bvg,.dark [class~="bg-[#f5c400]"]{color:#202124}
+
+
+button:disabled{opacity:.45;cursor:not-allowed}
+button:focus-visible,select:focus-visible,input:focus-visible{outline:2px solid #c49b00;outline-offset:2px}
+.viewer-image{max-width:none;transform-origin:center;box-shadow:0 6px 24px #0002}
+.dirty{color:#9b6a00}.dark .dirty{color:#f5cf67}
+.notice{position:fixed;bottom:18px;left:50%;transform:translateX(-50%);z-index:50;max-width:700px}
+.processing-bar{width:38%;animation:processing-slide 1.2s ease-in-out infinite}
+@keyframes processing-slide{0%{transform:translateX(-130%)}100%{transform:translateX(280%)}}
+</style>
+</head>
+<body><div id="app"></div><script src="app.js"></script></body></html>

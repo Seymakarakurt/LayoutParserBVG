@@ -1,0 +1,25 @@
+{
+    "image": "Fettabscheider_Blatt 1.png",
+    "width": 3840,
+    "height": 2568,
+    "annotations": [
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                3098,
+                2076,
+                3610,
+                2110
+            ]
+        },
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                3163,
+                2219,
+                3576,
+                2253
+            ]
+        }
+    ]
+}

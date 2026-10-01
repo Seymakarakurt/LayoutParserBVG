@@ -1,0 +1,16 @@
+{
+    "image": "E11-02a_Übersichtsplan Anbau Notausstiegsschacht.png",
+    "width": 3473,
+    "height": 5000,
+    "annotations": [
+        {
+            "label": "LINE_FIELD",
+            "bbox": [
+                3123,
+                629,
+                3163,
+                728
+            ]
+        }
+    ]
+}

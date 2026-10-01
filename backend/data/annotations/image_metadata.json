@@ -1,0 +1,412 @@
+[
+    {
+        "original_filename": "000000018.TIF",
+        "training_filename": "000000018.png",
+        "original_width": 6720,
+        "original_height": 4768,
+        "training_width": 5000,
+        "training_height": 3548,
+        "scale_x": 0.7440476190476191,
+        "scale_y": 0.7441275167785235
+    },
+    {
+        "original_filename": "00000018.TIF",
+        "training_filename": "00000018.png",
+        "original_width": 6784,
+        "original_height": 9536,
+        "training_width": 3557,
+        "training_height": 5000,
+        "scale_x": 0.5243219339622641,
+        "scale_y": 0.5243288590604027
+    },
+    {
+        "original_filename": "00000102.TIF",
+        "training_filename": "00000102.png",
+        "original_width": 9440,
+        "original_height": 6720,
+        "training_width": 5000,
+        "training_height": 3559,
+        "scale_x": 0.5296610169491526,
+        "scale_y": 0.5296130952380952
+    },
+    {
+        "original_filename": "00000128.TIF",
+        "training_filename": "00000128.png",
+        "original_width": 6720,
+        "original_height": 4768,
+        "training_width": 5000,
+        "training_height": 3548,
+        "scale_x": 0.7440476190476191,
+        "scale_y": 0.7441275167785235
+    },
+    {
+        "original_filename": "1149-0007.tif",
+        "training_filename": "1149-0007.png",
+        "original_width": 7901,
+        "original_height": 3552,
+        "training_width": 5000,
+        "training_height": 2248,
+        "scale_x": 0.6328312871788381,
+        "scale_y": 0.6328828828828829
+    },
+    {
+        "original_filename": "131_012.TIF",
+        "training_filename": "131_012.png",
+        "original_width": 6112,
+        "original_height": 9354,
+        "training_width": 3267,
+        "training_height": 5000,
+        "scale_x": 0.5345222513089005,
+        "scale_y": 0.5345306820611503
+    },
+    {
+        "original_filename": "31_50_1146_A_039_0006_00_00_ZG_8_04112_00042_8_0.tif",
+        "training_filename": "31_50_1146_A_039_0006_00_00_ZG_8_04112_00042_8_0.png",
+        "original_width": 25737,
+        "original_height": 14177,
+        "training_width": 5000,
+        "training_height": 2754,
+        "scale_x": 0.19427283677196255,
+        "scale_y": 0.1942583057064259
+    },
+    {
+        "original_filename": "A_318_005.tif",
+        "training_filename": "A_318_005.png",
+        "original_width": 16852,
+        "original_height": 4880,
+        "training_width": 5000,
+        "training_height": 1448,
+        "scale_x": 0.296700688345597,
+        "scale_y": 0.2967213114754098
+    },
+    {
+        "original_filename": "B_115_035.tif",
+        "training_filename": "B_115_035.png",
+        "original_width": 24763,
+        "original_height": 12468,
+        "training_width": 5000,
+        "training_height": 2517,
+        "scale_x": 0.20191414610507613,
+        "scale_y": 0.20187680461982677
+    },
+    {
+        "original_filename": "Blatt 9_Treppenanlage und Straßeneinteilung a d Haltestelle Alex - ungültig.tif",
+        "training_filename": "Blatt 9_Treppenanlage und Straßeneinteilung a d Haltestelle Alex - ungültig.png",
+        "original_width": 5040,
+        "original_height": 3906,
+        "training_width": 5000,
+        "training_height": 3875,
+        "scale_x": 0.9920634920634921,
+        "scale_y": 0.9920634920634921
+    },
+    {
+        "original_filename": "C316_UBw13165_Vorräume im Bereich des Flughafengeländes .tiff",
+        "training_filename": "C316_UBw13165_Vorräume im Bereich des Flughafengeländes .png",
+        "original_width": 9979,
+        "original_height": 7019,
+        "training_width": 5000,
+        "training_height": 3517,
+        "scale_x": 0.5010522096402446,
+        "scale_y": 0.5010685282803818
+    },
+    {
+        "original_filename": "D 73-006.TIF",
+        "training_filename": "D 73-006.png",
+        "original_width": 6720,
+        "original_height": 4768,
+        "training_width": 5000,
+        "training_height": 3548,
+        "scale_x": 0.7440476190476191,
+        "scale_y": 0.7441275167785235
+    },
+    {
+        "original_filename": "D085_19270929_Unterfangung Haus Hermannstr 256-57 überholt.tif",
+        "training_filename": "D085_19270929_Unterfangung Haus Hermannstr 256-57 überholt.png",
+        "original_width": 8349,
+        "original_height": 4960,
+        "training_width": 5000,
+        "training_height": 2970,
+        "scale_x": 0.5988741166606779,
+        "scale_y": 0.5987903225806451
+    },
+    {
+        "original_filename": "DE_016.tif",
+        "training_filename": "DE_016.png",
+        "original_width": 24206,
+        "original_height": 13772,
+        "training_width": 5000,
+        "training_height": 2845,
+        "scale_x": 0.2065603569362968,
+        "scale_y": 0.20657856520476328
+    },
+    {
+        "original_filename": "DE_029 nicht realisiert.tif",
+        "training_filename": "DE_029 nicht realisiert.png",
+        "original_width": 15850,
+        "original_height": 6829,
+        "training_width": 5000,
+        "training_height": 2154,
+        "scale_x": 0.31545741324921134,
+        "scale_y": 0.315419534338849
+    },
+    {
+        "original_filename": "D_99_023.tif",
+        "training_filename": "D_99_023.png",
+        "original_width": 19028,
+        "original_height": 13566,
+        "training_width": 5000,
+        "training_height": 3565,
+        "scale_x": 0.2627706537733866,
+        "scale_y": 0.2627893262568185
+    },
+    {
+        "original_filename": "E11-02a_Übersichtsplan Anbau Notausstiegsschacht.tif",
+        "training_filename": "E11-02a_Übersichtsplan Anbau Notausstiegsschacht.png",
+        "original_width": 9925,
+        "original_height": 14288,
+        "training_width": 3473,
+        "training_height": 5000,
+        "scale_x": 0.3499244332493703,
+        "scale_y": 0.34994400895856664
+    },
+    {
+        "original_filename": "E59-E60_1-1-7-1b_TK2_BAII-2a_Baugrubenplan.tif",
+        "training_filename": "E59-E60_1-1-7-1b_TK2_BAII-2a_Baugrubenplan.png",
+        "original_width": 6966,
+        "original_height": 5889,
+        "training_width": 5000,
+        "training_height": 4227,
+        "scale_x": 0.7177720356014929,
+        "scale_y": 0.71777890983189
+    },
+    {
+        "original_filename": "E_37_006.tif",
+        "training_filename": "E_37_006.png",
+        "original_width": 10558,
+        "original_height": 6140,
+        "training_width": 5000,
+        "training_height": 2908,
+        "scale_x": 0.4735745406326956,
+        "scale_y": 0.4736156351791531
+    },
+    {
+        "original_filename": "Fettabscheider_Blatt 1.tif",
+        "training_filename": "Fettabscheider_Blatt 1.png",
+        "original_width": 3840,
+        "original_height": 2568,
+        "training_width": 3840,
+        "training_height": 2568,
+        "scale_x": 1.0,
+        "scale_y": 1.0
+    },
+    {
+        "original_filename": "G-A_55_102_98d.tif",
+        "training_filename": "G-A_55_102_98d.png",
+        "original_width": 14141,
+        "original_height": 9977,
+        "training_width": 5000,
+        "training_height": 3528,
+        "scale_x": 0.3535817834665158,
+        "scale_y": 0.35361331061441315
+    },
+    {
+        "original_filename": "GLW-SM 01.tif",
+        "training_filename": "GLW-SM 01.png",
+        "original_width": 4844,
+        "original_height": 6670,
+        "training_width": 3631,
+        "training_height": 5000,
+        "scale_x": 0.749587118084228,
+        "scale_y": 0.7496251874062968
+    },
+    {
+        "original_filename": "G_90_a.tif",
+        "training_filename": "G_90_a.png",
+        "original_width": 11050,
+        "original_height": 8514,
+        "training_width": 5000,
+        "training_height": 3852,
+        "scale_x": 0.45248868778280543,
+        "scale_y": 0.452431289640592
+    },
+    {
+        "original_filename": "H_119_x.tif",
+        "training_filename": "H_119_x.png",
+        "original_width": 7081,
+        "original_height": 5003,
+        "training_width": 5000,
+        "training_height": 3533,
+        "scale_x": 0.7061149555147578,
+        "scale_y": 0.706176294223466
+    },
+    {
+        "original_filename": "M1417_ungültig.TIF",
+        "training_filename": "M1417_ungültig.png",
+        "original_width": 4987,
+        "original_height": 3893,
+        "training_width": 4987,
+        "training_height": 3893,
+        "scale_x": 1.0,
+        "scale_y": 1.0
+    },
+    {
+        "original_filename": "S_100_159.tif",
+        "training_filename": "S_100_159.png",
+        "original_width": 19454,
+        "original_height": 5033,
+        "training_width": 5000,
+        "training_height": 1294,
+        "scale_x": 0.2570165518659402,
+        "scale_y": 0.2571031194118816
+    },
+    {
+        "original_filename": "S_112_002.tif",
+        "training_filename": "S_112_002.png",
+        "original_width": 28516,
+        "original_height": 7564,
+        "training_width": 5000,
+        "training_height": 1326,
+        "scale_x": 0.17534015991022583,
+        "scale_y": 0.17530407191961925
+    },
+    {
+        "original_filename": "S_120_002.tif",
+        "training_filename": "S_120_002.png",
+        "original_width": 20836,
+        "original_height": 7748,
+        "training_width": 5000,
+        "training_height": 1859,
+        "scale_x": 0.23996928393165676,
+        "scale_y": 0.23993288590604026
+    },
+    {
+        "original_filename": "S_133_005.tif",
+        "training_filename": "S_133_005.png",
+        "original_width": 17227,
+        "original_height": 8689,
+        "training_width": 5000,
+        "training_height": 2522,
+        "scale_x": 0.2902420618796076,
+        "scale_y": 0.29025204281275174
+    },
+    {
+        "original_filename": "S_146_012_neu.tif",
+        "training_filename": "S_146_012_neu.png",
+        "original_width": 4690,
+        "original_height": 5899,
+        "training_width": 3975,
+        "training_height": 5000,
+        "scale_x": 0.847547974413646,
+        "scale_y": 0.8476012883539583
+    },
+    {
+        "original_filename": "S_220_x.tif",
+        "training_filename": "S_220_x.png",
+        "original_width": 16596,
+        "original_height": 10693,
+        "training_width": 5000,
+        "training_height": 3222,
+        "scale_x": 0.3012774162448783,
+        "scale_y": 0.30131861965772
+    },
+    {
+        "original_filename": "S_223_SK_4995.tif",
+        "training_filename": "S_223_SK_4995.png",
+        "original_width": 10082,
+        "original_height": 3610,
+        "training_width": 5000,
+        "training_height": 1790,
+        "scale_x": 0.4959333465582226,
+        "scale_y": 0.49584487534626037
+    },
+    {
+        "original_filename": "S_411_016.tif",
+        "training_filename": "S_411_016.png",
+        "original_width": 26628,
+        "original_height": 10595,
+        "training_width": 5000,
+        "training_height": 1989,
+        "scale_x": 0.18777226979119724,
+        "scale_y": 0.18773006134969325
+    },
+    {
+        "original_filename": "S_504_Ein_01.tif",
+        "training_filename": "S_504_Ein_01.png",
+        "original_width": 10273,
+        "original_height": 5494,
+        "training_width": 5000,
+        "training_height": 2674,
+        "scale_x": 0.4867127421395892,
+        "scale_y": 0.48671277757553694
+    },
+    {
+        "original_filename": "S_507_SK_20 892.tif",
+        "training_filename": "S_507_SK_20 892.png",
+        "original_width": 7051,
+        "original_height": 5024,
+        "training_width": 5000,
+        "training_height": 3563,
+        "scale_x": 0.7091192738618636,
+        "scale_y": 0.7091958598726115
+    },
+    {
+        "original_filename": "S_510_023 nie gebaut.tif",
+        "training_filename": "S_510_023 nie gebaut.png",
+        "original_width": 14625,
+        "original_height": 9564,
+        "training_width": 5000,
+        "training_height": 3270,
+        "scale_x": 0.3418803418803419,
+        "scale_y": 0.34190715181932246
+    },
+    {
+        "original_filename": "S_714_006.tif",
+        "training_filename": "S_714_006.png",
+        "original_width": 23362,
+        "original_height": 13706,
+        "training_width": 5000,
+        "training_height": 2933,
+        "scale_x": 0.21402277202294323,
+        "scale_y": 0.2139938712972421
+    },
+    {
+        "original_filename": "UBwE374_Bau eines Lüftungsschachtes Baugrubenaussteifung.tif",
+        "training_filename": "UBwE374_Bau eines Lüftungsschachtes Baugrubenaussteifung.png",
+        "original_width": 11265,
+        "original_height": 8397,
+        "training_width": 5000,
+        "training_height": 3727,
+        "scale_x": 0.44385264092321347,
+        "scale_y": 0.443848993688222
+    },
+    {
+        "original_filename": "U_3_POP_B2-212_a.tif",
+        "training_filename": "U_3_POP_B2-212_a.png",
+        "original_width": 19091,
+        "original_height": 13434,
+        "training_width": 5000,
+        "training_height": 3518,
+        "scale_x": 0.2619035147451679,
+        "scale_y": 0.2618728599076969
+    },
+    {
+        "original_filename": "S_328_a.tif",
+        "training_filename": "S_328_a.png",
+        "original_width": 18944,
+        "original_height": 8123,
+        "training_width": 5000,
+        "training_height": 2144,
+        "scale_x": 0.2639358108108108,
+        "scale_y": 0.2639418933891419
+    },
+    {
+        "original_filename": "synthetic_eval_01.png",
+        "training_filename": "synthetic_eval_01.png",
+        "original_width": 1815,
+        "original_height": 867,
+        "training_width": 1815,
+        "training_height": 867,
+        "scale_x": 1.0,
+        "scale_y": 1.0
+    }
+]

@@ -1,0 +1,34 @@
+{
+    "image": "DE_016.png",
+    "width": 5000,
+    "height": 2845,
+    "annotations": [
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                510,
+                18,
+                695,
+                83
+            ]
+        },
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                4463,
+                11,
+                4652,
+                64
+            ]
+        },
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                2848,
+                83,
+                3177,
+                177
+            ]
+        }
+    ]
+}

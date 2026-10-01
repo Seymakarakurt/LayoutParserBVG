@@ -1,0 +1,34 @@
+{
+    "image": "131_012.png",
+    "width": 3267,
+    "height": 5000,
+    "annotations": [
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                796,
+                4307,
+                860,
+                4763
+            ]
+        },
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                2556,
+                4457,
+                2634,
+                4808
+            ]
+        },
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                2504,
+                122,
+                2603,
+                465
+            ]
+        }
+    ]
+}

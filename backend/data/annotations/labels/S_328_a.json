@@ -1,0 +1,34 @@
+{
+    "image": "S_328_a.png",
+    "width": 5000,
+    "height": 2144,
+    "annotations": [
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                4260,
+                1548,
+                4766,
+                1595
+            ]
+        },
+        {
+            "label": "LINE_FIELD",
+            "bbox": [
+                4780,
+                1548,
+                4905,
+                1588
+            ]
+        },
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                4310,
+                1041,
+                4648,
+                1159
+            ]
+        }
+    ]
+}

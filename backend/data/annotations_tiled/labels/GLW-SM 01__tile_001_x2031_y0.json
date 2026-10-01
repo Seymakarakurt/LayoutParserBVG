@@ -1,0 +1,19 @@
+{
+    "image": "GLW-SM 01__tile_001_x2031_y0.png",
+    "width": 1600,
+    "height": 1600,
+    "source_image": "GLW-SM 01.png",
+    "tile_x": 2031,
+    "tile_y": 0,
+    "annotations": [
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                1283,
+                102,
+                1359,
+                387
+            ]
+        }
+    ]
+}

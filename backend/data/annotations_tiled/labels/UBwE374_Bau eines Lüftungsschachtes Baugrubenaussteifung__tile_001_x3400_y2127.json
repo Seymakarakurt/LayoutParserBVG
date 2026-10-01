@@ -1,0 +1,28 @@
+{
+    "image": "UBwE374_Bau eines Lüftungsschachtes Baugrubenaussteifung__tile_001_x3400_y2127.png",
+    "width": 1600,
+    "height": 1600,
+    "source_image": "UBwE374_Bau eines Lüftungsschachtes Baugrubenaussteifung.png",
+    "tile_x": 3400,
+    "tile_y": 2127,
+    "annotations": [
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                1064,
+                1305,
+                1269,
+                1339
+            ]
+        },
+        {
+            "label": "LINE_FIELD",
+            "bbox": [
+                1070,
+                1368,
+                1179,
+                1400
+            ]
+        }
+    ]
+}

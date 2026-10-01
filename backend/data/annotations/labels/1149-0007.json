@@ -1,0 +1,25 @@
+{
+    "image": "1149-0007.png",
+    "width": 5000,
+    "height": 2248,
+    "annotations": [
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                4208,
+                1489,
+                4502,
+                1534
+            ]
+        },
+        {
+            "label": "LINE_FIELD",
+            "bbox": [
+                4156,
+                1444,
+                4554,
+                1487
+            ]
+        }
+    ]
+}

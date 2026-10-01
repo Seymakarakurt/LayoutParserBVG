@@ -1,0 +1,19 @@
+{
+    "image": "S_223_SK_4995__tile_002_x2400_y0.png",
+    "width": 1600,
+    "height": 1600,
+    "source_image": "S_223_SK_4995.png",
+    "tile_x": 2400,
+    "tile_y": 0,
+    "annotations": [
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                873,
+                1476,
+                1322,
+                1580
+            ]
+        }
+    ]
+}

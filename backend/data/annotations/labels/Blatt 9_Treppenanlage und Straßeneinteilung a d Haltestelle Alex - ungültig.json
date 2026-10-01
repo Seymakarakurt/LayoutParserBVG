@@ -1,0 +1,16 @@
+{
+    "image": "Blatt 9_Treppenanlage und Straßeneinteilung a d Haltestelle Alex - ungültig.png",
+    "width": 5000,
+    "height": 3875,
+    "annotations": [
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                2500,
+                762,
+                3334,
+                891
+            ]
+        }
+    ]
+}

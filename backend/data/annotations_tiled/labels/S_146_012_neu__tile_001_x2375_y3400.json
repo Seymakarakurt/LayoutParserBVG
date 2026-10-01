@@ -1,0 +1,19 @@
+{
+    "image": "S_146_012_neu__tile_001_x2375_y3400.png",
+    "width": 1600,
+    "height": 1600,
+    "source_image": "S_146_012_neu.png",
+    "tile_x": 2375,
+    "tile_y": 3400,
+    "annotations": [
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                317,
+                1094,
+                1288,
+                1300
+            ]
+        }
+    ]
+}

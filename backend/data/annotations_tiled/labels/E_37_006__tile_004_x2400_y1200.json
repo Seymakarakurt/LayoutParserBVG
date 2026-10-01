@@ -1,0 +1,19 @@
+{
+    "image": "E_37_006__tile_004_x2400_y1200.png",
+    "width": 1600,
+    "height": 1600,
+    "source_image": "E_37_006.png",
+    "tile_x": 2400,
+    "tile_y": 1200,
+    "annotations": [
+        {
+            "label": "LINE_FIELD",
+            "bbox": [
+                1372,
+                1185,
+                1485,
+                1252
+            ]
+        }
+    ]
+}

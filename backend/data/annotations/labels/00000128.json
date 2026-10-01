@@ -1,0 +1,52 @@
+{
+    "image": "00000128.png",
+    "width": 5000,
+    "height": 3548,
+    "annotations": [
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                3915,
+                3294,
+                4451,
+                3340
+            ]
+        },
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                4408,
+                2848,
+                4837,
+                2969
+            ]
+        },
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                996,
+                3229,
+                1409,
+                3323
+            ]
+        },
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                1280,
+                342,
+                1717,
+                436
+            ]
+        },
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                4166,
+                342,
+                4589,
+                436
+            ]
+        }
+    ]
+}

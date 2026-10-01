@@ -1,0 +1,43 @@
+{
+    "image": "S_100_159.png",
+    "width": 5000,
+    "height": 1294,
+    "annotations": [
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                67,
+                11,
+                391,
+                86
+            ]
+        },
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                4540,
+                0,
+                4844,
+                38
+            ]
+        },
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                4702,
+                1045,
+                4914,
+                1067
+            ]
+        },
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                3860,
+                1121,
+                4166,
+                1197
+            ]
+        }
+    ]
+}

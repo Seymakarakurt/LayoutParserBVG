@@ -1,0 +1,28 @@
+{
+    "image": "S_714_006__tile_003_x3400_y1200.png",
+    "width": 1600,
+    "height": 1600,
+    "source_image": "S_714_006.png",
+    "tile_x": 3400,
+    "tile_y": 1200,
+    "annotations": [
+        {
+            "label": "LINE_FIELD",
+            "bbox": [
+                1328,
+                1561,
+                1389,
+                1573
+            ]
+        },
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                1276,
+                1576,
+                1455,
+                1594
+            ]
+        }
+    ]
+}

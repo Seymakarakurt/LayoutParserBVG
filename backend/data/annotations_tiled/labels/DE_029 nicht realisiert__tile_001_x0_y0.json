@@ -1,0 +1,19 @@
+{
+    "image": "DE_029 nicht realisiert__tile_001_x0_y0.png",
+    "width": 1600,
+    "height": 1600,
+    "source_image": "DE_029 nicht realisiert.png",
+    "tile_x": 0,
+    "tile_y": 0,
+    "annotations": [
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                182,
+                12,
+                479,
+                120
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "image": "D085_19270929_Unterfangung Haus Hermannstr 256-57 überholt.png",
+    "width": 5000,
+    "height": 2970,
+    "annotations": [
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                2302,
+                181,
+                2938,
+                244
+            ]
+        }
+    ]
+}

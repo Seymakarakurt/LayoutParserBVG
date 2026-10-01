@@ -1,0 +1,25 @@
+{
+    "image": "S_507_SK_20 892.png",
+    "width": 5000,
+    "height": 3563,
+    "annotations": [
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                4148,
+                3146,
+                4816,
+                3226
+            ]
+        },
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                3660,
+                2700,
+                4921,
+                2857
+            ]
+        }
+    ]
+}

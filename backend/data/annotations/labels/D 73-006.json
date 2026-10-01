@@ -1,0 +1,25 @@
+{
+    "image": "D 73-006.png",
+    "width": 5000,
+    "height": 3548,
+    "annotations": [
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                1707,
+                1066,
+                2254,
+                1165
+            ]
+        },
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                1688,
+                599,
+                2141,
+                721
+            ]
+        }
+    ]
+}

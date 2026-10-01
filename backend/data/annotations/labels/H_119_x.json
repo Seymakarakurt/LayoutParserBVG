@@ -1,0 +1,25 @@
+{
+    "image": "H_119_x.png",
+    "width": 5000,
+    "height": 3533,
+    "annotations": [
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                3399,
+                2744,
+                4013,
+                2828
+            ]
+        },
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                4157,
+                3102,
+                4816,
+                3155
+            ]
+        }
+    ]
+}

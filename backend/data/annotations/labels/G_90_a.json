@@ -1,0 +1,34 @@
+{
+    "image": "G_90_a.png",
+    "width": 5000,
+    "height": 3852,
+    "annotations": [
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                910,
+                3237,
+                1559,
+                3365
+            ]
+        },
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                3916,
+                3220,
+                4519,
+                3296
+            ]
+        },
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                3971,
+                3014,
+                4699,
+                3119
+            ]
+        }
+    ]
+}

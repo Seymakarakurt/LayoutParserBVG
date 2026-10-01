@@ -1,0 +1,25 @@
+{
+    "image": "U_3_POP_B2-212_a.png",
+    "width": 5000,
+    "height": 3518,
+    "annotations": [
+        {
+            "label": "LINE_FIELD",
+            "bbox": [
+                4317,
+                3227,
+                4605,
+                3260
+            ]
+        },
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                4692,
+                3402,
+                4869,
+                3431
+            ]
+        }
+    ]
+}

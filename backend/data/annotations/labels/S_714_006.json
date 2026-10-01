@@ -1,0 +1,43 @@
+{
+    "image": "S_714_006.png",
+    "width": 5000,
+    "height": 2933,
+    "annotations": [
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                122,
+                2826,
+                375,
+                2904
+            ]
+        },
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                4554,
+                2844,
+                4797,
+                2896
+            ]
+        },
+        {
+            "label": "LINE_FIELD",
+            "bbox": [
+                4728,
+                2761,
+                4789,
+                2773
+            ]
+        },
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                4676,
+                2776,
+                4855,
+                2794
+            ]
+        }
+    ]
+}

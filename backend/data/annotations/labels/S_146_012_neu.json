@@ -1,0 +1,25 @@
+{
+    "image": "S_146_012_neu.png",
+    "width": 3975,
+    "height": 5000,
+    "annotations": [
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                2692,
+                4494,
+                3663,
+                4700
+            ]
+        },
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                1781,
+                3231,
+                2373,
+                3424
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "image": "E59-E60_1-1-7-1b_TK2_BAII-2a_Baugrubenplan.png",
+    "width": 5000,
+    "height": 4227,
+    "annotations": [
+        {
+            "label": "LINE_FIELD",
+            "bbox": [
+                4532,
+                3739,
+                4701,
+                3804
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "image": "00000102__tile_001_x3400_y1959.png",
+    "width": 1600,
+    "height": 1600,
+    "source_image": "00000102.png",
+    "tile_x": 3400,
+    "tile_y": 1959,
+    "annotations": [
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                811,
+                1370,
+                1305,
+                1412
+            ]
+        },
+        {
+            "label": "LINE_FIELD",
+            "bbox": [
+                1457,
+                1370,
+                1555,
+                1412
+            ]
+        },
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                776,
+                1183,
+                1079,
+                1260
+            ]
+        }
+    ]
+}

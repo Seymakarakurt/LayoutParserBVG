@@ -1,0 +1,28 @@
+{
+    "image": "U_3_POP_B2-212_a__tile_001_x3400_y1918.png",
+    "width": 1600,
+    "height": 1600,
+    "source_image": "U_3_POP_B2-212_a.png",
+    "tile_x": 3400,
+    "tile_y": 1918,
+    "annotations": [
+        {
+            "label": "LINE_FIELD",
+            "bbox": [
+                917,
+                1309,
+                1205,
+                1342
+            ]
+        },
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                1292,
+                1484,
+                1469,
+                1513
+            ]
+        }
+    ]
+}

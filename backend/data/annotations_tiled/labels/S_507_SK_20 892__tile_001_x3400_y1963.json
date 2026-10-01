@@ -1,0 +1,28 @@
+{
+    "image": "S_507_SK_20 892__tile_001_x3400_y1963.png",
+    "width": 1600,
+    "height": 1600,
+    "source_image": "S_507_SK_20 892.png",
+    "tile_x": 3400,
+    "tile_y": 1963,
+    "annotations": [
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                748,
+                1183,
+                1416,
+                1263
+            ]
+        },
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                260,
+                737,
+                1521,
+                894
+            ]
+        }
+    ]
+}

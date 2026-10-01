@@ -1,0 +1,11 @@
+[server]
+address = "127.0.0.1"
+maxUploadSize = 150
+maxMessageSize = 250
+
+[theme]
+primaryColor = "#D1A900"
+backgroundColor = "#F7F7F4"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#151515"
+font = "sans serif"

@@ -1,0 +1,19 @@
+{
+    "image": "E_37_006__tile_002_x3400_y0.png",
+    "width": 1600,
+    "height": 1600,
+    "source_image": "E_37_006.png",
+    "tile_x": 3400,
+    "tile_y": 0,
+    "annotations": [
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                712,
+                0,
+                1195,
+                112
+            ]
+        }
+    ]
+}

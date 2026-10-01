@@ -1,0 +1,43 @@
+{
+    "image": "DE_029 nicht realisiert.png",
+    "width": 5000,
+    "height": 2154,
+    "annotations": [
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                182,
+                12,
+                479,
+                120
+            ]
+        },
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                3949,
+                0,
+                4253,
+                117
+            ]
+        },
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                4287,
+                1826,
+                4408,
+                1877
+            ]
+        },
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                3445,
+                556,
+                4084,
+                698
+            ]
+        }
+    ]
+}

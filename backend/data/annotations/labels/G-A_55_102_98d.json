@@ -1,0 +1,34 @@
+{
+    "image": "G-A_55_102_98d.png",
+    "width": 5000,
+    "height": 3528,
+    "annotations": [
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                4279,
+                3128,
+                4777,
+                3197
+            ]
+        },
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                4782,
+                3137,
+                4953,
+                3186
+            ]
+        },
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                4819,
+                2400,
+                4957,
+                2436
+            ]
+        }
+    ]
+}

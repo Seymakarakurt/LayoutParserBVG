@@ -1,0 +1,28 @@
+{
+    "image": "C316_UBw13165_Vorräume im Bereich des Flughafengeländes __tile_001_x3400_y1917.png",
+    "width": 1600,
+    "height": 1600,
+    "source_image": "C316_UBw13165_Vorräume im Bereich des Flughafengeländes .png",
+    "tile_x": 3400,
+    "tile_y": 1917,
+    "annotations": [
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                874,
+                1333,
+                1250,
+                1376
+            ]
+        },
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                1262,
+                1553,
+                1434,
+                1600
+            ]
+        }
+    ]
+}

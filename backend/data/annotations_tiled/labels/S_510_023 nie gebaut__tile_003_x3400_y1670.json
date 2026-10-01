@@ -1,0 +1,19 @@
+{
+    "image": "S_510_023 nie gebaut__tile_003_x3400_y1670.png",
+    "width": 1600,
+    "height": 1600,
+    "source_image": "S_510_023 nie gebaut.png",
+    "tile_x": 3400,
+    "tile_y": 1670,
+    "annotations": [
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                1137,
+                1373,
+                1233,
+                1405
+            ]
+        }
+    ]
+}

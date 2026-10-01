@@ -1,0 +1,28 @@
+{
+    "image": "Fettabscheider_Blatt 1__tile_001_x2240_y968.png",
+    "width": 1600,
+    "height": 1600,
+    "source_image": "Fettabscheider_Blatt 1.png",
+    "tile_x": 2240,
+    "tile_y": 968,
+    "annotations": [
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                858,
+                1108,
+                1370,
+                1142
+            ]
+        },
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                923,
+                1251,
+                1336,
+                1285
+            ]
+        }
+    ]
+}

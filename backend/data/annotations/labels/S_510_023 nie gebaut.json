@@ -1,0 +1,34 @@
+{
+    "image": "S_510_023 nie gebaut.png",
+    "width": 5000,
+    "height": 3270,
+    "annotations": [
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                4069,
+                34,
+                4500,
+                104
+            ]
+        },
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                4387,
+                2626,
+                4795,
+                2765
+            ]
+        },
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                4537,
+                3043,
+                4633,
+                3075
+            ]
+        }
+    ]
+}

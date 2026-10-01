@@ -1,0 +1,19 @@
+{
+    "image": "H_119_x__tile_002_x3400_y1933.png",
+    "width": 1600,
+    "height": 1600,
+    "source_image": "H_119_x.png",
+    "tile_x": 3400,
+    "tile_y": 1933,
+    "annotations": [
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                757,
+                1169,
+                1416,
+                1222
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "image": "GLW-SM 01.png",
+    "width": 3631,
+    "height": 5000,
+    "annotations": [
+        {
+            "label": "PLAN_NUMBER_FIELD",
+            "bbox": [
+                3314,
+                102,
+                3390,
+                387
+            ]
+        }
+    ]
+}

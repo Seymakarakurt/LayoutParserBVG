@@ -1,0 +1,19 @@
+{
+    "image": "G_90_a__tile_001_x0_y2252.png",
+    "width": 1600,
+    "height": 1600,
+    "source_image": "G_90_a.png",
+    "tile_x": 0,
+    "tile_y": 2252,
+    "annotations": [
+        {
+            "label": "STATION_FIELD",
+            "bbox": [
+                910,
+                985,
+                1559,
+                1113
+            ]
+        }
+    ]
+}
