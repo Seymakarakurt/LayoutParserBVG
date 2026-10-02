@@ -26,7 +26,15 @@ Ausführliche Projektbeschreibung: **[DOCUMENTATION.md](DOCUMENTATION.md)**
 | Internetzugang    | einmalig für Tailwind-CDN in der Oberfläche (Planbilder werden lokal verarbeitet) |
 | Modelldatei       | `backend/models/layout_detector_v3.pth` muss vorhanden sein                       |
 
-Ohne die Modelldatei startet die Oberfläche, die automatische Analyse funktioniert dann aber nicht.
+
+Hinweis: Ohne die Modelldatei startet die Oberfläche, die automatische Analyse funktioniert dann aber nicht.
+
+Das trainierte Layout-Modell (`backend/models/layout_detector_v3.pth`) ist aufgrund seiner Größe über **Git LFS** versioniert und wird beim normalen Klonen nicht automatisch vollständig geladen.
+Nach dem Klonen bitte Git LFS installieren und die Modelldatei nachziehen:
+
+```bash
+git lfs install
+git lfs pull
 
 ## Projekt vorbereiten
 
